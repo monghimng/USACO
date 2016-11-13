@@ -1,7 +1,7 @@
-/*
+package Ch1.Section2;/*
 ID: monghim1
 LANG: JAVA
-TASK: dualpal
+TASK: Ch1.Section2.dualpal
 */
 import java.io.*;
 import java.math.BigInteger;
