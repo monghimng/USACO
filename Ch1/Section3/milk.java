@@ -6,7 +6,7 @@ TASK: milk
 import java.io.*;
 import java.util.StringTokenizer;
 
-class milk {
+public class milk {
 
     static class Farmer{
         int price, amount;
